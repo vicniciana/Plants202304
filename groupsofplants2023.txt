@@ -1,0 +1,4 @@
+Groups of plants:
+- vascular plants
+- bryophyles (mosses and liverworts)
+- algae (micro- and macroalgae)
